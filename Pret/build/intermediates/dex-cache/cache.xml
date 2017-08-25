@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\Urs\M1\Rojo\Mobile\Pret\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="F:\Urs\M1\Rojo\Mobile\Pret\app\build\intermediates\pre-dexed\debug\classes-c4c2982c5477102a5b8271f6c6ee2124835a65df.jar" />
+    </item>
+    <item
+        jar="F:\Urs\M1\Rojo\Mobile\Pret\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="F:\Urs\M1\Rojo\Mobile\Pret\app\build\intermediates\pre-dexed\debug\classes-8a20de4933b459c055c5b1083dd5c3aef956ad0c.jar" />
+    </item>
+    <item
+        jar="F:\Urs\M1\Rojo\Mobile\Pret\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="F:\Urs\M1\Rojo\Mobile\Pret\app\build\intermediates\pre-dexed\debug\classes-7cb01206ec318b176d5e8c9d8c57d86bc696c53b.jar" />
+    </item>
+    <item
+        jar="F:\Urs\M1\Rojo\Mobile\Pret\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="F:\Urs\M1\Rojo\Mobile\Pret\app\build\intermediates\pre-dexed\debug\classes-7db2f56bf80fbeb8967b96063ab1c6441b519163.jar" />
+    </item>
+    <item
+        jar="F:\Urs\M1\Rojo\Mobile\Pret\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="F:\Urs\M1\Rojo\Mobile\Pret\app\build\intermediates\pre-dexed\debug\classes-1dff05e5c7c3500fb5f33fb6428d30b772e36eb0.jar" />
+    </item>
+    <item
+        jar="F:\Urs\M1\Rojo\Mobile\Pret\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="F:\Urs\M1\Rojo\Mobile\Pret\app\build\intermediates\pre-dexed\debug\classes-e5cc9aa970d97ceb66e7a87ed76662050aa91885.jar" />
+    </item>
+    <item
+        jar="F:\Urs\M1\Rojo\Mobile\Pret\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="F:\Urs\M1\Rojo\Mobile\Pret\app\build\intermediates\pre-dexed\debug\classes-f4bb6eda1fc8b94f1f3ecca73bca68e8dab4910a.jar" />
+    </item>
+    <item
+        jar="E:\Users\Freddylie\AppData\Local\Android\Androidsdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="F:\Urs\M1\Rojo\Mobile\Pret\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1-6e651e09a8afa503d5c6ef779d71ed6ac607b6f8.jar" />
+    </item>
+    <item
+        jar="F:\Urs\M1\Rojo\Mobile\Pret\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="F:\Urs\M1\Rojo\Mobile\Pret\app\build\intermediates\pre-dexed\debug\classes-4ac8515dd31b4eb454f9867833b2bcad265e5877.jar" />
+    </item>
+    <item
+        jar="F:\Urs\M1\Rojo\Mobile\Pret\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="F:\Urs\M1\Rojo\Mobile\Pret\app\build\intermediates\pre-dexed\debug\classes-7d07afee1ab0025f32e98ec5f09bb2898dccc7e1.jar" />
+    </item>
+    <item
+        jar="F:\Urs\M1\Rojo\Mobile\Pret\app\build\intermediates\exploded-aar\com.android.support\preference-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="536228b2496030d983d01856aa56b4d71b57d0db">
+        <dex dex="F:\Urs\M1\Rojo\Mobile\Pret\app\build\intermediates\pre-dexed\debug\classes-61bf2f7b65566bc595aa0d59dda3db4d5c7e104c.jar" />
+    </item>
+    <item
+        jar="F:\Urs\M1\Rojo\Mobile\Pret\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\Urs\M1\Rojo\Mobile\Pret\app\build\intermediates\pre-dexed\debug\classes-7b63d76476ded375b57ec07211627e654d866d6f.jar" />
+    </item>
+    <item
+        jar="F:\Urs\M1\Rojo\Mobile\Pret\app\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="F:\Urs\M1\Rojo\Mobile\Pret\app\build\intermediates\pre-dexed\debug\classes-73d5c77256d954112ac2af53478addbab6dfac78.jar" />
+    </item>
+    <item
+        jar="F:\Urs\M1\Rojo\Mobile\Pret\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="F:\Urs\M1\Rojo\Mobile\Pret\app\build\intermediates\pre-dexed\debug\classes-159a622f4b067bd851c8c8ffe6b21030cdac84c0.jar" />
+    </item>
+    <item
+        jar="F:\Urs\M1\Rojo\Mobile\Pret\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="F:\Urs\M1\Rojo\Mobile\Pret\app\build\intermediates\pre-dexed\debug\classes-d31b389370693a522d51b1ffe6c1d8bf2a6a80e9.jar" />
+    </item>
+    <item
+        jar="E:\Users\Freddylie\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.4\a60a5e993c98c864010053cb901b7eab25306568\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="F:\Urs\M1\Rojo\Mobile\Pret\app\build\intermediates\pre-dexed\debug\gson-2.2.4-e5525206d9bb891011b34f6e45044f3d26332e21.jar" />
+    </item>
+    <item
+        jar="F:\Urs\M1\Rojo\Mobile\Pret\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="F:\Urs\M1\Rojo\Mobile\Pret\app\build\intermediates\pre-dexed\debug\classes-7d5a0a152ee0e6628b933f0d43d3b82f86aa87aa.jar" />
+    </item>
+
+</items>
